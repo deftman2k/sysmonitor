@@ -1,4 +1,4 @@
-# 🖥️ 시스템 트레이 CPU/RAM 모니터
+# 🖥️ 시스템 트레이 CPU/RAM 사용량 모니터
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue)
