@@ -1,4 +1,4 @@
-# 🖥️ 시스템 트레이 CPU/RAM 모니터
+# 🖥️ 시스템 트레이 CPU/RAM 사용량 모니터
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue)
@@ -14,7 +14,6 @@
   - 시작 시 자동 실행 설정
   - 작업 관리자 바로 열기
   - 종료
-- 📦 PyInstaller + UPX 기반 압축 빌드 지원 (최소 실행 파일 크기)
 
 ---
 
